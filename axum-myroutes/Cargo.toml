@@ -26,7 +26,7 @@ url-escape = "0.1.1"
 
 [dev-dependencies]
 axum = "0.8.9"
-axum-test = "20.0.0"
+axum-test = "21.0.0"
 tokio = { version = "1.52.3", features = ["macros", "rt-multi-thread"] }
 trybuild = "1.0.116"
 
