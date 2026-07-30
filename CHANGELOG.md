@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.0
+
+- **breaking**: Remove stray generic parameter from `retained_query_params`
+- **breaking**: Fix fragment percent encoding
+- **fixed**: Improved macro hygyene
+- **fixed**: Documentation improvements
+
 ## 0.2.3
 
 - **changed**: Remove `itertool` dependency
