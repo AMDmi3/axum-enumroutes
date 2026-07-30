@@ -19,9 +19,9 @@ proc-macro = true
 nightly = []
 
 [dependencies]
-proc-macro2 = "1.0.106"
-quote = "1.0.45"
-syn = { version = "2.0.117", default-features = false, features = ["extra-traits", "full", "parsing", "printing", "proc-macro"] }
+proc-macro2 = "1.0.107"
+quote = "1.0.47"
+syn = { version = "3.0.3", default-features = false, features = ["extra-traits", "full", "parsing", "printing", "proc-macro"] }
 
 [lints]
 workspace = true
